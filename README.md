@@ -32,7 +32,7 @@ This is a clone of popular project management application **Trello (Listing Task
 
 ## Screenshots
 
-<img src="./screenshots/ss1.png" alt=""/>
+<img src="./screenshots/ss1.jpg" alt=""/>
 <br>
-<img src="./screenshots/ss2.png" alt=""/>
+<img src="./screenshots/ss2.jpg" alt=""/>
 <br>
